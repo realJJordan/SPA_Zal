@@ -1,0 +1,128 @@
+{
+    "breakfeast": [
+        {
+            "label": "Śniadanie nr.1",
+            "desc": "Zwykłe śniadanie",
+            "imageUrl": "breakfast.jpg",
+            "new": true
+        },
+        {
+            "label": "Śniadanie nr.2",
+            "desc": "Śniadanie wegetariańskie",
+            "imageUrl": "breakfast_vege.jpg",
+            "new": true,
+            "mealType": "vege"
+        },
+        {
+            "label": "Śniadanie nr.3",
+            "desc": "Śniadanie tylko z mięsa",
+            "imageUrl": "breakfast_carnivore.jpg",
+            "new": true,
+            "mealType": "carnivore"
+        },
+        {
+            "label": "Śniadanie nr.4",
+            "desc": "Zwykłe śniadanie",
+            "imageUrl": "breakfast.jpg",
+            "new": false
+        },
+        {
+            "label": "Śniadanie nr.5",
+            "desc": "Śniadanie wegetariańskie",
+            "imageUrl": "breakfast_vege.jpg",
+            "new": false,
+            "mealType": "vege"
+        },
+        {
+            "label": "Śniadanie nr.6",
+            "desc": "Śniadanie tylko z mięsa",
+            "imageUrl": "breakfast_carnivore.jpg",
+            "new": false,
+            "mealType": "carnivore"
+        }
+    ],
+    "lunch": [
+        {
+            "label": "Obiad nr.1",
+            "desc": "Zwykły obiad",
+            "imageUrl": "lunch.jpg",
+            "new": true
+        },
+        {
+            "label": "Obiad nr.2",
+            "desc": "Obiad wegetariański",
+            "imageUrl": "lunch_vege.jpg",
+            "new": true,
+            "mealType": "vege"
+        },
+        {
+            "label": "Obiad nr.3",
+            "desc": "Obiad tylko z mięsa",
+            "imageUrl": "lunch_carnivore.jpg",
+            "new": true,
+            "mealType": "carnivore"
+        },
+        {
+            "label": "Obiad nr.4",
+            "desc": "Zwykły obiad",
+            "imageUrl": "lunch.jpg",
+            "new": false
+        },
+        {
+            "label": "Obiad nr.5",
+            "desc": "Obiad wegetariański",
+            "imageUrl": "lunch_vege.jpg",
+            "new": false,
+            "mealType": "vege"
+        },
+        {
+            "label": "Obiad nr.6",
+            "desc": "Obiad tylko z mięsa",
+            "imageUrl": "lunch_carnivore.jpg",
+            "new": false,
+            "mealType": "carnivore"
+        }
+    ],
+    "dinner": [
+        {
+            "label": "Kolacja nr.1",
+            "desc": "Zwykła kolacja",
+            "imageUrl": "dinner.jpg",
+            "new": true
+        },
+        {
+            "label": "Kolacja nr.2",
+            "desc": "Kolacja wegetariańska",
+            "imageUrl": "dinner_vege.jpg",
+            "new": true,
+            "mealType": "vege"
+        },
+        {
+            "label": "Kolacja nr.3",
+            "desc": "Kolacja tylko z mięsa",
+            "imageUrl": "dinner_carnivore.jpg",
+            "new": true,
+            "mealType": "carnivore"
+        },
+        {
+            "label": "Kolacja nr.4",
+            "desc": "Zwykła kolacja",
+            "imageUrl": "dinner.jpg",
+            "new": false
+        },
+        {
+            "label": "Kolacja nr.5",
+            "desc": "Kolacja wegetariańska",
+            "imageUrl": "dinner_vege.jpg",
+            "new": false,
+            "mealType": "vege"
+        },
+        {
+            "label": "Kolacja nr.6",
+            "desc": "Kolacja tylko z mięsa",
+            "imageUrl": "dinner_carnivore.jpg",
+            "new": false,
+            "mealType": "carnivore"
+        }
+    ]
+}

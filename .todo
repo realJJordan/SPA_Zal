@@ -1,0 +1,19 @@
+router | index.tsx
+template | Menu.tsx
+click | Menu.tsx
+v-if | Menu.tsx (conditional rendering)
+v-show | Menu.tsx (conditional rendering)
+emit | Menu.tsx
+axios / fetch | Menu.tsx
+watcher | useEffect Menu.tsx
+created Menu.tsx
+mounted | Menu.tsx
+methods | Menu.tsx
+data | alternatywa useState Menu.tsx
+props | Menu.tsx
+components | Menu.tsx Meal component
+mixin | nie ma
+slot | Menu.tsx
+events | Menu.tsx
+
+GIT
